@@ -7,6 +7,7 @@ $price2 = 2.20;
 
 $mwst = 0.08;
 
+
 // TODO: Zwischensumme berechnen
 $subtotal = $price1 + $price2;
 
@@ -137,3 +138,5 @@ echo  "---------- ---------- ---------- ----------<br/><br/>";
 for ($i = 3; $i <= 30; $i += 3) {
   echo $i . " ";
 }
+
+
